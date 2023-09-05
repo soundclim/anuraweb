@@ -1,5 +1,4 @@
 url: https://soundclim.github.io/chorus/
-baseurl: /chorus/
 title:  AnuraSet
 description: A dataset for benchmarking Neotropical <br> anuran calls identification in passive acoustic monitoring
 show_downloads: true
