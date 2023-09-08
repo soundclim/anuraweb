@@ -14,7 +14,7 @@ We present a large-scale multi-species dataset of acoustics recordings of amphib
 
 **Multilabel Annotation:** The dataset includes multilabel annotations, allowing for the classification of audio samples into multiple categories simultaneously. This feature is particularly useful for tasks involving signal classification in complex multi-species choruses.
 
-**Expert Annotations:** This dataset comprises approximately 26.7 hours of audio recordings annotated by expert herpetologists. It has weak labels, with the presence and absence of species at a 60 second resolution, and also strong labels with precise location of the signals of the identified species.
+**Expert Annotations:** This dataset comprises approximately 27 hours of audio recordings annotated by expert herpetologists. It has weak labels, with the presence and absence of species at a 60 second resolution, and also strong labels with precise location of the signals of the identified species.
 
 **Biomes:** This dataset covers two unique tropical biomes, the Atlantic Forest and the Cerrado, providing a representation of environmental sound across different ecosystems.
 
