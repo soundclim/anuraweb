@@ -7,7 +7,7 @@ title: AnuraSet
 
 We present a large-scale multi-species dataset of acoustics recordings of amphibians anuran from passive acoustic recordings. The dataset comprises 27 hours of herpetologist annotations of 42 different species in different regions of Brazil. The classification task is unique and challenging due to the high species diversity, the long-tailed distribution, and frequent overlapping calls. The dataset, including raw recordings, preprocessing code, and baseline code, is made available to promote collaboration between machine learning researchers and ecologists in solving the classification challenges toward understanding the effects of global change on biodiversity. A more thorough description of the dataset is available in our [research paper](https://arxiv.org/abs/2307.06860).
 
-<a href="https://doi.org/10.5281/zenodo.8056090"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8056090.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8342596.svg)](https://doi.org/10.5281/zenodo.8342596)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 # Key Features
