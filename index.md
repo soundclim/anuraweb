@@ -44,7 +44,7 @@ Dive into our curated collection of brief audio snippets, extracted from our ext
 
 If you find the AnuraSet useful for your research, please consider citing it as:
 
-> Cañas, J. S., Toro-Gómez, M. P., Sugai, L. S. M., Restrepo, H. D. B., Rudas, J., Bautista, B. P., ... & Ulloa, J. S. (2023). AnuraSet: A dataset for benchmarking Neotropical anuran calls identification in passive acoustic monitoring. arXiv preprint arXiv:2307.06860.
+> Cañas, J.S., Toro-Gómez, M.P., Sugai, L.S.M. et al. A dataset for benchmarking Neotropical anuran calls identification in passive acoustic monitoring. Sci Data 10, 771 (2023). https://doi.org/10.1038/s41597-023-02666-2
 
 # Contribute
 
