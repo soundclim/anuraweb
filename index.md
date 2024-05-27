@@ -10,6 +10,9 @@ We present a large-scale multi-species dataset of acoustics recordings of amphib
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8342596.svg)](https://doi.org/10.5281/zenodo.8342596)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+**U-AnuraSet:** We introduce an extension consisting of 177.6 hours of unlabeled data, with 44.4 hours per site. The recording sites are identical to those in the original AnuraSet. The U-AnuraSet is publicly available to encourage machine learning researchers to explore innovative methods for leveraging unlabeled data in training models for tasks such as anuran call identification.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11244814.svg)](https://doi.org/10.5281/zenodo.11244814)
+
 # Key Features
 
 **Multilabel Annotation:** The dataset includes multilabel annotations, allowing for the classification of audio samples into multiple categories simultaneously. This feature is particularly useful for tasks involving signal classification in complex multi-species choruses.
