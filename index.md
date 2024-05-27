@@ -5,12 +5,12 @@ title: AnuraSet
 
 # Overview
 
-We present a large-scale multi-species dataset of acoustics recordings of amphibians anuran from passive acoustic recordings. The dataset comprises 27 hours of herpetologist annotations of 42 different species in different regions of Brazil. The classification task is unique and challenging due to the high species diversity, the long-tailed distribution, and frequent overlapping calls. The dataset, including raw recordings, preprocessing code, and baseline code, is made available to promote collaboration between machine learning researchers and ecologists in solving the classification challenges toward understanding the effects of global change on biodiversity. A more thorough description of the dataset is available in our [research paper](https://www.nature.com/articles/s41597-023-02666-2).
+**AnuraSet:** We present a large-scale multi-species dataset of acoustics recordings of amphibians anuran from passive acoustic recordings. The dataset comprises 27 hours of herpetologist annotations of 42 different species in different regions of Brazil. The classification task is unique and challenging due to the high species diversity, the long-tailed distribution, and frequent overlapping calls. The dataset, including raw recordings, preprocessing code, and baseline code, is made available to promote collaboration between machine learning researchers and ecologists in solving the classification challenges toward understanding the effects of global change on biodiversity. A more thorough description of the dataset is available in our [research paper](https://www.nature.com/articles/s41597-023-02666-2).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8342596.svg)](https://doi.org/10.5281/zenodo.8342596)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-**U-AnuraSet:** We introduce an extension consisting of 177.6 hours of unlabeled data, with 44.4 hours per site. The recording sites are identical to those in the original AnuraSet. The U-AnuraSet is publicly available to encourage machine learning researchers to explore innovative methods for leveraging unlabeled data in training models for tasks such as anuran call identification.
+**U-AnuraSet:** We introduce an extension of AnuraSet consisting of 177.6 hours of unlabeled data, with 44.4 hours per site. The recording sites are identical to those in the original AnuraSet. The U-AnuraSet is publicly available to encourage machine learning researchers to explore innovative methods for leveraging unlabeled data in training models for tasks such as anuran call identification.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11244814.svg)](https://doi.org/10.5281/zenodo.11244814)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
