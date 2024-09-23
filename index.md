@@ -10,10 +10,15 @@ title: AnuraSet
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8342596.svg)](https://doi.org/10.5281/zenodo.8342596)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-**U-AnuraSet:** We introduce an extension of AnuraSet consisting of 177.6 hours of unlabeled data, with 44.4 hours per site. The recording sites are identical to those in the original AnuraSet. The U-AnuraSet is publicly available to encourage machine learning researchers to explore innovative methods for leveraging unlabeled data in training models for tasks such as anuran call identification.
+🆕 **U-AnuraSet:** We introduce an extension of AnuraSet consisting of 177.6 hours of unlabeled data, with 44.4 hours per site. The recording sites are identical to those in the original AnuraSet. The U-AnuraSet is publicly available to encourage machine learning researchers to explore innovative methods for leveraging unlabeled data in training models for tasks such as anuran call identification.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11244814.svg)](https://doi.org/10.5281/zenodo.11244814)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+🆕 **FNJV:** Strong labels on 270 focal acoustic recordings of anuran amphibians from the Jacques Vielliard Neotropical Sound Library, featuring 305,211 minutes of annotated acoustic activity from 12 species. The annotation includes an estimated quality of the signal: clear, medium and far.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13786714.svg)](https://doi.org/10.5281/zenodo.13786714)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # Key Features
 
